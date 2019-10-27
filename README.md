@@ -1,3 +1,13 @@
+## Application details
+
+This application is a learning process. I am developing it as i am learning about DEV OPS.
+
+## Deploy
+
+To deploy this project you need to commit to master. Master is currently being tracked by TravisCI. Once Tests have been passed 
+TravisCI will start deployment to AWS Elastic Beanstalk 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
